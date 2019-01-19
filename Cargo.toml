@@ -1,0 +1,11 @@
+[package]
+name = "random"
+version = "0.1.0"
+authors = ["Frederic Merizen <frederic.merizen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.1.0"
+volatile = "0.2.5"
+arraymap = "0.1.1"
+byteorder = "1.2.7"
